@@ -16,4 +16,3 @@ export const Banner = () => {
   return element;
 };
 
-

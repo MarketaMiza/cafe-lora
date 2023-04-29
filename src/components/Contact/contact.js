@@ -23,7 +23,7 @@ export const Contact = () => {
         <tr><td>Neděle</td><td>9:00 - 02:00</td></tr>
       </table>
       <img
-        class="contact__map" src="./img/map.png"
+        class="contact__map" src="/img/map.png"
       />
     </div>
   </div>
