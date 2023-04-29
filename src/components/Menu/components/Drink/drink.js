@@ -21,12 +21,7 @@ export const Drink = (props) => {
     </div> 
     `
 
-    element.querySelector('.layer').append(
-        Layer({
-          color: '#feeeca',
-          label: 'mléčná pěna'
-        })
-      )
+    element.querySelector('.layer').append(Layer({color: '#feeeca',label: 'mléčná pěna'}));
 
     return element
 }
